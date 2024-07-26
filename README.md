@@ -9,9 +9,9 @@
 
 ## About Me:
 
-Hey there! My name is Kirill Ladonin, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 person 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+Hey there! My name is Ladonin Kirill, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 person 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
 
-Currently, I'm based in the beautiful city of Saint Petersburg 🌉 where I where I develop web applications 📊 I also study at a university called SUAI🎓
+Currently, I'm based in the beautiful city of Saint Petersburg 🌉 where I develop web applications 📊 I also study at a university called SUAI🎓
 
 When I'm not immersed in the world of technology, you can find me on the city streets. Apart from that, I love listening to music 🎶.
 
