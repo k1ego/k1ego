@@ -25,7 +25,7 @@ I'm always open to new ideas and opportunities. You can connect with me on Teleg
 - Hub: It will not happen  ¯\_(ツ)_/¯
 
 <p align="center">
- <img width="600" src="https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## Skills:
